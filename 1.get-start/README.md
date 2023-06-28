@@ -4,5 +4,8 @@
 
 **React simplifies the creation of SPA by using reusable component**
 
+**Simple to build single page application ( by using Componets)**
+
+
 
 
